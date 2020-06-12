@@ -1,0 +1,14 @@
+# Meta data
+meta: {
+  name: send_photo,
+  first_step: photo_if
+}
+
+# Image field 
+photo_if: {
+  type: image_field,
+  text: "Send me the photo *(do not send it as file)*",
+  next_step: null,
+  output: media_id,
+  save_in_cache: false
+}

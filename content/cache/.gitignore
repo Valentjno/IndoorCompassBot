@@ -1,0 +1,7 @@
+files/**/*.yaml
+images/
+!images/deleteme
+videos/
+!videos/deleteme
+animations/
+!animations/deleteme

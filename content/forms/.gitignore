@@ -1,0 +1,4 @@
+data/**/*.yaml
+!data/**/__default.yaml
+
+config/*.yaml
